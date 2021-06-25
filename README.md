@@ -15,9 +15,7 @@
   <img align="center" alt="Artur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Artur-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Artur-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Artur-Firebird" height="30" width="40" src="https://firebirdsql.org/img/about/logos/firebird-logo-48.png">
-  <img align="center" alt="Artur-Firebird" height="30" width="40" src="https://firebirdsql.org/img/about/logos/firebird-logo-48.png">
- 
+  <img align="center" alt="Artur-Firebird" height="30" width="40" src="https://firebirdsql.org/img/about/logos/firebird-logo-48.png"> 
 </div>
   
   ##
