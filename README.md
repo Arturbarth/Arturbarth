@@ -1,4 +1,6 @@
-## Oiii! Bem vindo ao meu GitHub, me chamo Artur Barth, tenho 30 anos e sou desenvolvedor há 12 anos.
+## Olá! Bem vindo ao meu GitHub, me chamo Artur Barth, tenho 30 anos e sou desenvolvedor há 12 anos.
+Atualmente Sou Java Software Engineer na SOUTH SYSTEM.
+
  <div>
   <a href="https://github.com/arturbarth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
