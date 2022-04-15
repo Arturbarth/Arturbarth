@@ -1,6 +1,6 @@
 <?php
   
-  $receiving_email_address = 'nhlanhlahasane@hotmail.com';
+  $receiving_email_address = 'arturbarth@gmail.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -18,10 +18,10 @@
 
 
   $contact->smtp = array(
-    'host' => 'hotmail.com',
-    'username' => 'nhlanhlahasane',
-    'password' => 'Reneilwe@99',
-    'port' => '587'
+    'host' => '',
+    'username' => '',
+    'password' => '',
+    'port' => ''
   );
   */
 
